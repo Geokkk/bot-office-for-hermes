@@ -1,0 +1,14 @@
+{
+  "api": "plugin_api.py",
+  "css": "dist/style.css",
+  "description": "Bot Office — a little rendered office building for Hermes Agent: model groups work at desks and sleep in the dorm, live from state.db (read-only metadata); archivist with real session history; dispatcher with a main-task / subagent board; host room with CPU, memory and service lamps.",
+  "entry": "dist/index.js",
+  "icon": "Building2",
+  "label": "Bot Office",
+  "name": "bot-office",
+  "tab": {
+    "path": "/bot-office",
+    "position": "end"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,7 @@
+/* bot-office plugin — the tab layout is inline-styled in
+   dist/index.js; this file only guards the iframe against
+   dashboard theme defaults. UI v3 is a bright daytime scene. */
+iframe[title="Bot Office"] {
+  background: #a8d8f8;
+  color-scheme: light;
+}
